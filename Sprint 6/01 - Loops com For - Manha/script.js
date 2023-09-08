@@ -10,11 +10,11 @@
 //}
 
 //      index/indice           i = i + 1
-/*
+
 for(let i = 0; i <= 10; i++) {
     console.log(i);
 }
-*/
+
 
 //--------------------------------------------
 // Loop com While
@@ -65,7 +65,7 @@ for (let i = 1; i <= 10; i++) {
 let texto = "Eu compro churros em uma loja de batatas";
 
 //Contando as vogais
-/*let qtdVogais = 0;
+let qtdVogais = 0;
 
 for(let i = 0; i < texto.length; i++) {
     let caractereAtual = texto[i];
@@ -87,7 +87,7 @@ console.log(qtdVogais);
 for(let i = 0; i < texto.length; i++) {
     console.log(texto[i]);
 }
-*/
+
 
 // Como acessar um caractere
 //console.log(texto[0]) // Acessando o primeiro caractere
